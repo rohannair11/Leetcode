@@ -1,2 +1,2 @@
 # Leetcode
-Solutions for the problems I solve from neetcode.io/roadmap. 
+Solutions for the problems I solve from leetcode. 
